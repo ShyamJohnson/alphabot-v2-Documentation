@@ -10,7 +10,7 @@ What makes the AlphaBot V2 particularly valuable for Arduino developers is its t
 
 
 <center>
-<img src="/img/nabor-alphabot-2-dlya-arduino.jpg" width="500" height="700">
+<img src="docs/img/nabor-alphabot-2-dlya-arduino.jpg" width="500" height="700">
 </center>
 
 >Alphabot V2 with Aurdino or RaspBerry Pi
